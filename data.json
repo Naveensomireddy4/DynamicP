@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "name": "Somireddy Naveen Kumar Reddy",
+    "title": "FL Researcher | Problem Solver",
+    "email": "naveensomireddy2112@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/naveen-kumar-reddy-somi-reddy-1b1ab2246/",
+    "github": "https://github.com/Naveensomireddy4",
+    "typing": [
+      "FL Researcher",
+      "Problem Solver",
+      "AI Innovator",
+      "Full-Stack Developer"
+    ]
+  },
+  "about": "Hi, I\u2019m Somireddy Naveen Kumar Reddy \u2014 a Federated Learning researcher passionate about building AI systems that are not just smart, but also private, scalable, and adaptive. From computer vision to speech recognition, I\u2019ve worked on solving real-world AI challenges like handling client dropout, tackling heterogeneous data, and making models efficient for edge devices. My mission is simple: push the boundaries of decentralized AI so it can empower industries and protect user privacy at the same time.",
+  "skills": {
+    "programming": "Python, C++, SQL",
+    "ml": "PyTorch, TensorFlow, Hugging Face",
+    "specializations": "Federated Learning, Continual Learning, Computer Vision, NLP",
+    "web": "Django REST, React, PostgreSQL",
+    "devops": "AWS, Docker, Git, Linux"
+  },
+  "projects": [],
+  "experience": [
+    {
+      "role": "Research Intern \u2013 Continual Federated Learning & ASR",
+      "org": "IIIT Delhi",
+      "period": "Dec 2024 \u2013 Present",
+      "bullets": [
+        "Developed C-FLAG integrating AGEM & memory-based gradients for low-forgetting continual learning.",
+        "Adapted Whisper-Tiny into a privacy-preserving multilingual ASR system for edge devices.",
+        "Improved model accuracy & retention across Split CIFAR-10/100 and TinyImageNet benchmarks."
+      ]
+    },
+    {
+      "role": "Research Intern \u2013 Federated Learning Optimization",
+      "org": "NITK Surathkal",
+      "period": "May 2024 \u2013 Nov 2024",
+      "bullets": [
+        "Trained ResNet-18 on NIH Chest X-ray dataset using FL.",
+        "Proposed a client substitution strategy, boosting accuracy by 5\u20138% in dropout scenarios.",
+        "Designed dynamic client scheduling, improving convergence speed by optimizing resource allocation."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "inst": "Indian Institute of Engineering Science and Technology, Shibpur",
+      "period": "2021 \u2013 2025",
+      "note": "CGPA: 8.68"
+    }
+  ],
+  "extras": [
+    "LeetCode Knight \u2013 Top 3% globally (1100+ problems)",
+    "Rank 97 in LeetCode Biweekly Contest 133 (Top 0.5%)",
+    "Rank 337 in CodeChef Starters 90 Division 4 (Top 1%)",
+    "Languages: English, Telugu, Hindi"
+  ]
+}
